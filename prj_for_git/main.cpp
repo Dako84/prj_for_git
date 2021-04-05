@@ -3,10 +3,10 @@
 
 void main()
 {
-	printf("Hello Git");
+	printf("Hello Git\n");
 
-	printf("Hello Git 24");
-	foo(6);
+	printf("Hello Git 24\n");
+	foo(36);
 
 
 }

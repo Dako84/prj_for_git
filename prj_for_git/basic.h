@@ -4,5 +4,5 @@
 
 void foo(int a)
 {
-	printf("a = %d", a);
+	printf("a = %d\n", a);
 }
