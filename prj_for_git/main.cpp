@@ -8,5 +8,7 @@ void main()
 	printf("Hello Git 24");
 	foo(6);
 
+	foo2(12);
+
 
 }
