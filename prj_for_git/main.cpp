@@ -10,5 +10,7 @@ void main()
 
 	foo2(12);
 
+	printf("Hello Git 240\n");
+
 
 }
